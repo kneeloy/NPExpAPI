@@ -1,0 +1,32 @@
+﻿[
+  {
+    "AttributeName": "Density",
+    "AttributeValue": "124/Sqft",
+    "AvailableInLandscape": true,
+    "AvailableInPortrait": true
+  },
+  {
+    "AttributeName": "Area",
+    "AttributeValue": "124 SqMile",
+    "AvailableInLandscape": true,
+    "AvailableInPortrait": true
+  },
+  {
+    "AttributeName": "Population",
+    "AttributeValue": "1224M",
+    "AvailableInLandscape": true,
+    "AvailableInPortrait": true
+  },
+  {
+    "AttributeName": "capital",
+    "AttributeValue": "Munich",
+    "AvailableInLandscape": true,
+    "AvailableInPortrait": false
+  },
+  {
+    "AttributeName": "Largest City",
+    "AttributeValue": "Frankfurt",
+    "AvailableInLandscape": true,
+    "AvailableInPortrait": false
+  }
+]

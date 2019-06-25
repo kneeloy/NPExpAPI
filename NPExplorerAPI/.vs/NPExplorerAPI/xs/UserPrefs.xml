@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{E09F5D7F-CC24-4D42-9A53-D4C66D0E8AE0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NPExplorerAPI/Models/CountryAttributeCollection.cs">
+    <Files>
+      <File FileName="NPExplorerAPI/wwwroot/jsonDB/Attributes_Ireland.json" Line="32" Column="2" />
+      <File FileName="NPExplorerAPI/wwwroot/jsonDB/Attributes_Germany.json" Line="28" Column="35" />
+      <File FileName="NPExplorerAPI/wwwroot/jsonDB/Users_Germany.json" Line="4" Column="6" />
+      <File FileName="NPExplorerAPI/wwwroot/jsonDB/RegistrationForm_Ireland.json" Line="14" Column="2" />
+      <File FileName="NPExplorerAPI/wwwroot/jsonDB/Login_Germany.json" Line="14" Column="2" />
+      <File FileName="NPExplorerAPI/Controllers/UserRegistrationController.cs" Line="47" Column="1" />
+      <File FileName="NPExplorerAPI/Controllers/UserAuthenticationController.cs" Line="47" Column="1" />
+      <File FileName="NPExplorerAPI/Controllers/CountryAttributeController.cs" Line="47" Column="1" />
+      <File FileName="NPExplorerAPI/Controllers/CountryDetailController.cs" Line="47" Column="1" />
+      <File FileName="NPExplorerAPI/Models/CountryAttribute.cs" Line="11" Column="1" />
+      <File FileName="NPExplorerAPI/Models/User.cs" Line="11" Column="1" />
+      <File FileName="NPExplorerAPI/Models/CountryAttributeCollection.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NPExplorerAPI" expanded="True">
+            <Node name="NPExplorerAPI" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="CountryAttributeCollection.cs" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NPExplorerAPI FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
