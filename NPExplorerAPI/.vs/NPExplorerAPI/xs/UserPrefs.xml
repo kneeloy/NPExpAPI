@@ -1,20 +1,25 @@
 ﻿<Properties StartupConfiguration="{E09F5D7F-CC24-4D42-9A53-D4C66D0E8AE0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="NPExplorerAPI/Controllers/CountryAttributeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NPExplorerAPI/Models/AuthenticationStatusReply.cs">
     <Files>
       <File FileName="NPExplorerAPI/Models/CountryAttributeCollection.cs" Line="1" Column="1" />
-      <File FileName="NPExplorerAPI/Models/AttributesResponseModel.cs" />
+      <File FileName="NPExplorerAPI/Models/AttributesResponseModel.cs" Line="1" Column="1" />
       <File FileName="NPExplorerAPI/Controllers/CountryAttributeController.cs" Line="12" Column="32" />
       <File FileName="NPExplorerAPI/Controllers/CountryDetailController.cs" />
+      <File FileName="NPExplorerAPI/wwwroot/jsonDB/Attributes_Ireland.json" Line="1" Column="1" />
+      <File FileName="NPExplorerAPI/wwwroot/jsonDB/Attributes_Germany.json" Line="24" Column="32" />
+      <File FileName="NPExplorerAPI/Controllers/UserRegistrationController.cs" Line="43" Column="94" />
+      <File FileName="NPExplorerAPI/Controllers/UserAuthenticationController.cs" Line="22" Column="1" />
+      <File FileName="NPExplorerAPI/Models/AuthenticationStatusReply.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="NPExplorerAPI" expanded="True">
             <Node name="NPExplorerAPI" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="CountryAttributeController.cs" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="AuthenticationStatusReply.cs" selected="True" />
               </Node>
-              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>

@@ -20,6 +20,8 @@ namespace NPExplorerAPI.Controllers
         {
             Console.WriteLine("In user registration");
             RegistrationStatusReply statusReply = new RegistrationStatusReply();
+
+            //Ideally there should be helper class and function to do the following operation
             // Save the user name and password with jsonDB
             if(formData.PreRegisterdCode == "123435")
             {
@@ -28,7 +30,6 @@ namespace NPExplorerAPI.Controllers
             {
                 statusReply.RegistrationStatus = "NO";
             }
-            //statusReply.RegistrationStatus = "OK";
             return statusReply;
         }
 
@@ -39,6 +40,7 @@ namespace NPExplorerAPI.Controllers
             Console.WriteLine("In user registration");
             RegistrationStatusReply statusReply = new RegistrationStatusReply();
 
+            //Ideally there should be helper class and function to do the following operation
             // Save the user name and password with jsonDB
             if (formData.UserName == "Niloy")
             {
@@ -48,7 +50,6 @@ namespace NPExplorerAPI.Controllers
             {
                 statusReply.RegistrationStatus = "NO";
             }
-            //statusReply.RegistrationStatus = "OK";
             return statusReply;
         }
     }

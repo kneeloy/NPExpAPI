@@ -21,7 +21,7 @@
     "AttributeName": "capital",
     "AttributeValue": "Munich",
     "AvailableInLandscape": true,
-    "AvailableInPortrait": false
+    "AvailableInPortrait": true
   },
   {
     "AttributeName": "Largest City",

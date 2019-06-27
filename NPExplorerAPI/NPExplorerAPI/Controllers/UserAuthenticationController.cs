@@ -19,6 +19,8 @@ namespace NPExplorerAPI.Controllers
         {
             Console.WriteLine("In authentication");
             AuthenticationStatusReply authreply = new AuthenticationStatusReply();
+
+            //Ideally there should be helper class and function to do the following operation
             // Validate the user name and password with jsonDB
             bool AuthStatus = true;
             if (formData.UserName == "kneeloy")
