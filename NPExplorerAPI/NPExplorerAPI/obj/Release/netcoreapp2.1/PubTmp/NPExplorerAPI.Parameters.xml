@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="NPExpAPI" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^/Users/niloy\.chakraborty/Personal/Work/Repo/RestAPI/NPExplorerAPI/NPExplorerAPI/obj/Release/netcoreapp2\.1/PubTmp/Out/$" />
+  </parameter>
+</parameters>

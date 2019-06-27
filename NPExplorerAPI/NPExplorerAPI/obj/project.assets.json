@@ -11803,11 +11803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/niloy.chakraborty/Personal/Work/Repo/NPExpAPI/NPExplorerAPI/NPExplorerAPI/NPExplorerAPI.csproj",
+      "projectUniqueName": "/Users/niloy.chakraborty/Personal/Work/Repo/RestAPI/NPExplorerAPI/NPExplorerAPI/NPExplorerAPI.csproj",
       "projectName": "NPExplorerAPI",
-      "projectPath": "/Users/niloy.chakraborty/Personal/Work/Repo/NPExpAPI/NPExplorerAPI/NPExplorerAPI/NPExplorerAPI.csproj",
+      "projectPath": "/Users/niloy.chakraborty/Personal/Work/Repo/RestAPI/NPExplorerAPI/NPExplorerAPI/NPExplorerAPI.csproj",
       "packagesPath": "/Users/niloy.chakraborty/.nuget/packages/",
-      "outputPath": "/Users/niloy.chakraborty/Personal/Work/Repo/NPExpAPI/NPExplorerAPI/NPExplorerAPI/obj/",
+      "outputPath": "/Users/niloy.chakraborty/Personal/Work/Repo/RestAPI/NPExplorerAPI/NPExplorerAPI/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

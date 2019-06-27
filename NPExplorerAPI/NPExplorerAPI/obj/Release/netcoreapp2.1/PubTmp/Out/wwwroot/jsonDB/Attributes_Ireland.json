@@ -1,0 +1,32 @@
+﻿[
+    {
+        "AttributeName": "Area",
+        "AttributeValue": "1224 SqMile",
+        "AvailableInLandscape": true,
+        "AvailableInPortrait": true
+    },
+    {
+        "AttributeName": "Population",
+        "AttributeValue": "24M",
+        "AvailableInLandscape": true,
+        "AvailableInPortrait": true
+    },
+    {
+        "AttributeName": "Largest City",
+        "AttributeValue": "Dublin",
+        "AvailableInLandscape": true,
+        "AvailableInPortrait": true
+    },
+    {
+        "AttributeName": "Spoken Languages",
+        "AttributeValue": "Irish, Gailic",
+        "AvailableInLandscape": true,
+        "AvailableInPortrait": false
+    },
+    {
+        "AttributeName": "Currency",
+        "AttributeValue": "Euro",
+        "AvailableInLandscape": true,
+        "AvailableInPortrait": false
+    }
+]
